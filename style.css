@@ -1,0 +1,46 @@
+.jonka{
+    width: 1440px;
+    border: 2px solid blue;
+    margin: 0 auto;
+    padding: 0 80px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-top: 30px;
+
+}
+
+.menu li{
+    width: 100%;
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.h1{
+    text-align: center;
+    margin: 135px 0;
+    font-size: 64px;
+}
+
+.karobki{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.korobochek{
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    border: 2px solid black;
+    font-size: 64px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    align-content: center;
+    margin-bottom: 20px;
+}
